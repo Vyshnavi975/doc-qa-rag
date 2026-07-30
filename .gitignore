@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables / secrets
+.env
+
+# Built vector index output
+.docqa_index/
+
+# Editor/OS cruft
+.vscode/
+.idea/
+.DS_Store

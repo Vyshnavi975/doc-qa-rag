@@ -1,0 +1,34 @@
+Solstice Robotics: Product Lineup
+
+Solstice Robotics sells three products, all built around the Scout robot platform and the
+Solstice Hub software dashboard.
+
+Scout Mini is the entry-level robot, designed for hobbyist growers and small greenhouses
+under 2,000 square feet. Scout Mini has a battery life of about 6 hours per charge, moves
+along a single greenhouse bench rail, and reports soil moisture and temperature readings
+every 15 minutes. Scout Mini costs $899 and does not include a camera. It is the
+best-selling product by unit volume, accounting for roughly 60 percent of all Scout robots
+shipped.
+
+Scout Pro is the mid-tier robot aimed at commercial greenhouse operators. It adds a
+high-resolution camera for leaf and pest inspection, can switch between multiple bench
+rails using a docking rail-changer accessory, and has a battery life of about 10 hours.
+Scout Pro costs $2,400 and includes one year of Solstice Hub Premium at no extra charge.
+After the first year, Solstice Hub Premium costs $40 per month per robot.
+
+Scout Enterprise is designed for large commercial greenhouse operations with many bench
+rails. It ships in fleets of at least 5 robots that coordinate with each other through a
+central base station, share a single charging dock, and upload data continuously rather
+than in 15-minute batches. Scout Enterprise pricing is customized per site and starts
+around $18,000 for a 5-robot fleet, including 3 years of Solstice Hub Premium.
+
+The Solstice Hub dashboard is the software companion for all three robots. The free tier
+of Solstice Hub shows the last 7 days of sensor data and basic pest alerts. Solstice Hub
+Premium adds a 2-year data history, automated weekly health reports emailed to the grower,
+and an early-warning model that flags plants showing signs of stress up to 3 days before
+visible symptoms appear. Solstice Hub Premium is included with Scout Pro and Scout
+Enterprise for a limited introductory period as described above.
+
+All Scout robots are covered by a standard 1-year hardware warranty. Extended warranties
+covering years 2 and 3 can be purchased separately for $150 per year for Scout Mini and
+$300 per year for Scout Pro.

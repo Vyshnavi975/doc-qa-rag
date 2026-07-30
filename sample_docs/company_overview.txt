@@ -1,0 +1,30 @@
+Solstice Robotics: Company Overview
+
+Solstice Robotics was founded in 2019 in Portland, Oregon by engineers Mara Ilhan and
+Devon Kessler. The company designs small autonomous robots that help greenhouses and
+indoor farms monitor plant health without constant human supervision. Solstice Robotics
+is a private company and has not taken on outside investors; it has grown entirely from
+customer revenue since its first product shipped in 2020.
+
+The company's mission is to make precision agriculture affordable for small and mid-sized
+growers, not just large industrial farms. Solstice Robotics currently employs 42 people
+across two offices: an engineering and manufacturing site in Portland, Oregon, and a
+smaller customer support office in Guelph, Ontario, Canada. The Guelph office opened in
+2022 to better serve the company's growing base of Canadian greenhouse customers.
+
+Solstice Robotics' flagship product line is called the Scout series, a family of small
+wheeled robots that roll along greenhouse benches and use onboard cameras and sensors to
+check soil moisture, leaf color, and pest activity. Data collected by Scout robots is
+uploaded to a companion dashboard called Solstice Hub, which growers use to spot problems
+early. As of the start of 2026, Solstice Robotics has shipped over 3,100 Scout robots to
+customers in the United States, Canada, and the Netherlands.
+
+The company's CEO is Mara Ilhan, who previously worked as a mechanical engineer at an
+industrial robotics firm before co-founding Solstice. Devon Kessler serves as Chief
+Technology Officer and leads the software and machine learning team. Solstice Robotics
+was named one of Oregon's fastest-growing small manufacturers in 2024 by a regional
+business journal, based on year-over-year revenue growth.
+
+Solstice Robotics' headquarters address is 1180 Foundry Lane, Portland, Oregon. General
+inquiries can be sent to hello@solsticerobotics.example, and the company's support line
+is described in a separate FAQ document.
