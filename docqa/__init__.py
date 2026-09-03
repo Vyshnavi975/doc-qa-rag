@@ -5,8 +5,9 @@ Modules:
     loaders   - read .txt/.md/.pdf files from a folder into raw document text
     chunking  - split document text into overlapping, retrievable chunks
     retriever - from-scratch TF-IDF + cosine-similarity vector index
-    llm       - optional answer synthesis via Anthropic/OpenAI, with a
-                no-API-key "demo mode" extractive fallback
+    llm       - optional answer synthesis via OpenAI (Anthropic supported as
+                an alternative), with a no-API-key "demo mode" extractive
+                fallback
     cli       - command line entry point tying the above together
 """
 

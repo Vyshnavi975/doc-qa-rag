@@ -115,8 +115,8 @@ def build_parser() -> argparse.ArgumentParser:
         prog="docqa",
         description="Answer questions over a folder of local text/PDF documents using "
         "retrieval-augmented generation (RAG). Uses an LLM to synthesize an answer if "
-        "ANTHROPIC_API_KEY or OPENAI_API_KEY is set; otherwise falls back to demo mode "
-        "and returns the most relevant retrieved passages directly.",
+        "OPENAI_API_KEY (or, as an alternative, ANTHROPIC_API_KEY) is set; otherwise "
+        "falls back to demo mode and returns the most relevant retrieved passages directly.",
     )
     subparsers = parser.add_subparsers(dest="command", required=True)
 
